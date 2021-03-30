@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Adriaan
-- 👀 I’m interested in iOS Development
+- 👋 Hi, I’m Adriaan.
+- 👀 I’m interested in iOS Development.
 - 🌱 I’m currently learning iOS development, Python, and machine learning.
+- 😊 The projects in my repos are created from learning new skills.
 - 📫 How to reach me adriaan9@hotmail.co.za
 
 <!---
